@@ -22,6 +22,5 @@ public class Proposta {
 
     private String observacao;
 
-    @JsonManagedReference
     private Usuario usuario;
 }
